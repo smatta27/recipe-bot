@@ -18,40 +18,6 @@
   * API; we are incorporating a chat gpt API for the custom input for the chatbot.
   * there is a nav bar with login/signup/signout
 
- > ## Phase II
-
-## User Interface Specification
-
-### Navigation Diagram
-<img width="727" height="545" alt="navigationimg" src="https://github.com/user-attachments/assets/37068ec3-76ee-4140-ab9d-c47cfc5e627b" />
-
-
-## Class Diagram
- ![Cs_final_project-2](https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/20f33a0b-164f-4a7b-b1ac-b31e2b8b7bd2)
- 
-![Cs_final_project-3](https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/d657efa3-de69-44f1-a4fe-6b80f7845361)
-
-![Cs_final_project-4](https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/baea1e41-4ae8-4f09-9104-5cd70ac74b06)
-
-
- > ## Phase III
-
- ## User Interface Specification
-
-## Class Diagram
-![Cs_final_project-2](https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/582084a7-01dd-4c35-ab71-7a2167c899ac)
-
- In this diagram, I discarded the searchbar class and simply combined with the chatbot class to create a universal AI that can carry out all the required functions of our program. For the searchbot class, I applied the SRP principle because each class to has specific role in the chatbot AI and did not want to put multiple functions into one class, so the searchbot is divided into recipe which contains the specifc characteristics for the recipe, and the searchbar(html/css) itself. This also utilizes the ISP principle as there is no unused methods or interfaces being used for any of the classes in the diagram. Each function and class exist purely towards the functionality of the program and none of it will go unused or unutilizewd in the final project. This diagram also utilizes the OCP principle as the print functions inside Recipe could be extended in a way to print more information without modifying its already existing methods. These principles assisted with keeping the code more organized and made it to be not be dependant on a singular interface or class, so that the program would still function properly.
-![Cs_final_project-3](https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/7cca7f6e-0db7-48ec-9b47-fe108552f62f)
-
- 
- In this diagram, I designed the homepage in a similar manner as I did in the previous page, however, I took out variables and functions that were not necessary and linked the homepage to other necessary pages such as the chatbot and the sidebar. The SRC principle was utilized as sidebar contains its own responsibilities shown on the side portion of the homepage and homepage is like a coordinator to the sidebar and the chatbot page. The homepage has it's own specific role which is to potray a captivating layout that contains the sidebar and the chatbot button. If there were extended classes to the homepage, it would not affect its main function which would be to showcase the sidebar and the chabot page which adheres to the OCP principle. Even if certain functions or classes were added to the homepage, it would not affect its functionality and the program would run as usual. These principles assisted with keeping the code more organized and made it to be not be dependant on a singular interface or class, so that the program would still function properly.
-![Cs_final_project-4](https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/96b97f05-7fe7-41d1-8549-b26f96693761)
-
-
-In this diagram, I designed the sidebar in a similar manner as I did in the chatbot class. I used similar principles as the chatbot class such as the SRP principle as it only contains one key responsibility which is to showcase and link the subcategories onto the sidebar. If additional uses were added to the sidebar for extension, it would not affect the overall function of the sidebar which is to showcase and link said subcategories. There's not an excessive amount of code in this class and each class specifies its functions without including variables or functions that are not necesssary for this layout. These principles assisted with keeping the code more organized and made it to be not be dependant on a singular interface or class, so that the program would still function properly.
-
- 
  > ## Final deliverable
 
  ## Screenshots
