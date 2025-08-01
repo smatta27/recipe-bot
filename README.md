@@ -21,17 +21,22 @@
  > ## Final deliverable
 
  ## Screenshots
-[img1.pdf](https://github.com/user-attachments/files/21545105/img1.pdf)
 
+<img width="227" height="742" alt="finald1" src="https://github.com/user-attachments/assets/846ce6ab-a51b-431a-aced-314743658619" />
 
 * This is what the folders in the vs code has to look like so it would properly run. All html files have to be umder templates folder and the css files under the static folder. Lastly, the chatbot.py should be outside of these two folders like shown above. 
-[img2.pdf](https://github.com/user-attachments/files/21545129/img2.pdf)
+<img width="821" height="82" alt="finald2" src="https://github.com/user-attachments/assets/b8cf7806-086f-4157-8366-0fa782729757" />
+
 
 
 * For the website to run click on the chat.py and click the play button in the corner(the triangle button)
 
-<img width="821" alt="Screenshot 2024-03-14 at 10 41 25 AM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/141898541/dd17b4a8-ac9b-4124-9f86-292089ee122c">
-<img width="1440" alt="Screenshot 2024-03-14 at 10 42 11 AM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/141898541/1690950d-4dbe-432b-bc3c-a0574c2a9fff">
+<img width="821" height="694" alt="finald3" src="https://github.com/user-attachments/assets/8325a92a-34fe-4646-8da7-c4c8801681b2" />
+
+<img width="1440" height="834" alt="finald4" src="https://github.com/user-attachments/assets/f07ea4ab-9c05-467e-be2d-b3febe45a24d" />
+
+<img width="1018" height="584" alt="Screenshot 2025-08-01 at 2 31 41 AM" src="https://github.com/user-attachments/assets/3f018be2-1f43-43a3-8314-c34be012889e" />
+
 
 * Once you hit the run button, it would generate a http link. Copy the link in your web browser
   
@@ -48,12 +53,13 @@
 * Install HTML and CSS on VSC
   
  ## Testing
- <img width="1089" alt="Screen Shot 2024-03-14 at 7 41 21 PM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/c28febff-5e9e-4c05-a405-80b3ddc5278b">
- <img width="1189" alt="Screen Shot 2024-03-14 at 7 42 06 PM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/4ea5efd1-8187-4ad2-9cdd-121831162562">
- <img width="1188" alt="Screen Shot 2024-03-14 at 7 51 53 PM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-sm
-  <img width="1183" alt="Screen Shot 2024-03-14 at 7 52 09 PM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/6bbbfc6e-51df-4d9d-906b-751b27194644">
-att023/assets/156261894/11ea5068-faa0-4b9f-8dc0-2d9a48b0fed6">
-<img width="1183" alt="Screen Shot 2024-03-14 at 7 52 09 PM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/188119c1-1924-43b8-9c14-10053a58ae47">
+ <img width="1089" height="765" alt="test1" src="https://github.com/user-attachments/assets/ca537d4d-fb3b-4e65-be0b-ed390a400968" />
+ 
+<img width="1189" height="784" alt="test2" src="https://github.com/user-attachments/assets/fb2b81ed-c71c-4792-9764-3a92bced0714" />
 
-<img width="1072" alt="Screen Shot 2024-03-14 at 7 52 26 PM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/8539aa64-1668-4886-8f99-031524e8a9ed">
+<img width="1183" height="939" alt="313052244-188119c1-1924-43b8-9c14-10053a58ae47" src="https://github.com/user-attachments/assets/4288cbe8-9b29-482c-a37c-f38b09a89d8e" />
+
+
+<img width="1072" height="627" alt="imghh" src="https://github.com/user-attachments/assets/e7231152-55ef-46d0-990f-90b81aaa0ffa" />
+
 
