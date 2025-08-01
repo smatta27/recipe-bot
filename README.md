@@ -26,12 +26,6 @@
 <img width="727" height="545" alt="navigationimg" src="https://github.com/user-attachments/assets/37068ec3-76ee-4140-ab9d-c47cfc5e627b" />
 
 
-
-
-### Screen Layouts
-<img width="812" alt="Screen Shot 2024-03-14 at 3 34 49 AM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/151404736/a8e87dc2-2f17-4e19-8663-ba41bb15f766">
-
-
 ## Class Diagram
  ![Cs_final_project-2](https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/20f33a0b-164f-4a7b-b1ac-b31e2b8b7bd2)
  
