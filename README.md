@@ -21,10 +21,12 @@
  > ## Final deliverable
 
  ## Screenshots
-> <img width="227" alt="Screenshot 2024-03-14 at 10 40 00 AM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/141898541/e887d67b-3cce-4a32-8113-bfdfa4b879d5">
+[img1.pdf](https://github.com/user-attachments/files/21545105/img1.pdf)
+
 
 * This is what the folders in the vs code has to look like so it would properly run. All html files have to be umder templates folder and the css files under the static folder. Lastly, the chatbot.py should be outside of these two folders like shown above. 
-<img width="821" alt="Screenshot 2024-03-14 at 10 40 42 AM" src="https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/141898541/4acd6a78-b9cb-411c-ad6d-3171a3857507">
+[img2.pdf](https://github.com/user-attachments/files/21545129/img2.pdf)
+
 
 * For the website to run click on the chat.py and click the play button in the corner(the triangle button)
 
