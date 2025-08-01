@@ -23,7 +23,8 @@
 ## User Interface Specification
 
 ### Navigation Diagram
- <img width="727" alt="Screen Shot 2024-03-14 at 12 13 27 PM" src="[[https://github.com/cs100/final-project-hsarr001-avino008-bramk002-smatt023/assets/156261894/73d7d255-651b-4b38-aec2-65c8e996f66](https://github.com/smatta27/recipe-bot/blob/main/navigationimg.png?raw=true)f](https://github.com/smatta27/recipe-bot/blob/main/navigationimg.png?raw=true)">
+<img width="727" height="545" alt="navigationimg" src="https://github.com/user-attachments/assets/37068ec3-76ee-4140-ab9d-c47cfc5e627b" />
+
 
 
 
